@@ -1,4 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-style: none;
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+}
 
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Outfit;
+    height: 100vh;
+    
+    
+}
 
 .card img{
     
